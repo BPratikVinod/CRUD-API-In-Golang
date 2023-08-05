@@ -1,0 +1,9 @@
+open the folder in terminal and enter this command
+
+go run main.go
+
+
+then open the POSTMAN extension and select the get method and put the address
+http://localhost:8000/movies
+
+perform each operation according to the method and by checking out the functions written for it.
